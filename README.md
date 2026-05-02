@@ -15,6 +15,9 @@ iii)To determine the trends in profit month by month
 #Dashboard
 (Chocolate sales analysis)<img width="1366" height="697" alt="Chocolate sales analysis" src="https://github.com/user-attachments/assets/b42ce8e2-9b7b-4398-a589-13bf3e253e3d" />
 
+#Tech Stack
+The data was analysed using Microsoft Excel
+
 #Key insights
 BRAND PERFORMANCE
 The best selling brand in order of their ranks: **Ferrero**,Cadbury,lint,mars,Godiva,Hershey. The least performing chocolate sales,is the **unbranded one**.
@@ -26,4 +29,8 @@ In the third quarter there's an increase in profit to (8.51%),which further incr
 Overally,the profit which we began with in **January(8.55%)** has declined to **(8.46%)** at the end of the year
 
 **#Recommendations**
-Expand distribution channels in the Canadian market
+i). Expand distribution channels in the Canadian market by launching an exclusive product,or by a loyalty program so as to guard the market share.
+ii). Do a market research to understand whether the underperformance in Germany is caused by local competiton,pricing and distribution problems.
+iii). Use special marketing efforts such as Valentines day promotions so as to increase sales in the month of February.
+iv). Conduct an audit on Cost of goods sold (COGS),since the profit fell even in times when sales could be even. 
+v). Use Ferrero as a multibrand package so as to drive traffic towards Hershey or Godivia which are not doing so well.
